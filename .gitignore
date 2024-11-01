@@ -1,0 +1,19 @@
+# Virtual environment
+myenv/
+venv/
+*.venv
+.env/
+
+# Python bytecode
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Large binary files
+*.pyd
+*.dll
+*.lib
+*.so
+
+# Exclude dataset zip files
+*.zip
