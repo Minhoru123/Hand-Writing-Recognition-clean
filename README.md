@@ -8,6 +8,8 @@ This project focuses on handwriting recognition using a dataset of over 400,000 
 
 ### Dataset
 
+Dataset location: https://www.kaggle.com/datasets/landlord/handwriting-recognition
+
 The dataset includes:
 **-** 206,799 first names
 **-** 207,024 surnames
