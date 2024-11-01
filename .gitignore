@@ -18,3 +18,4 @@ venv/
 # Exclude dataset zip files
 data/
 *.zip
+data/processed/train_v2/
