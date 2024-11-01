@@ -16,4 +16,5 @@ venv/
 *.so
 
 # Exclude dataset zip files
+data/
 *.zip
