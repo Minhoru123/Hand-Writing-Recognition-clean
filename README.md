@@ -67,10 +67,6 @@ This project uses some large model files and libraries. Due to GitHub's file siz
 
 These files will be automatically installed when you run `pip install -r requirements.txt`.
 
-## Usage
-
-[Add instructions for how to use your handwriting recognition system]
-
 ## Features
 
 * Handwriting recognition and digitization
